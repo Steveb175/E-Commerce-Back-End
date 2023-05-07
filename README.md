@@ -19,7 +19,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Tests](#tests)
+  - [Initialization](#initialization)
   - [Repo](#repo)
   - [Contributors](#contributors)
 
@@ -32,8 +32,8 @@ This application can be used by a store to create, maintain, and delete data wit
 ## License
 MIT
 
-## Tests
-To run a test, run this command: node server.js
+## Initialization
+To run this application, run this command: node server.js
 
 ## Repo
 
